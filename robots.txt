@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheingukie.wangzhongxing.com/sitemap.xml
